@@ -30,7 +30,6 @@ R -e "BiocManager::install('limma')"
 R -e "BiocManager::install('affy')"
 R -e "BiocManager::install('affyPLM')"
 R -e "BiocManager::install('simpleaffy')"
-R -e "BiocManager::install('genefilter')"
 R -e "BiocManager::install('mouse4302cdf')"
 
 
