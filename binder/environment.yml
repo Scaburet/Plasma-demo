@@ -18,7 +18,6 @@ dependencies:
   - r-tidyverse 
   - r-Matrix
   - r-lattice
-  - r-fdrtool
   - r-rpart
   - r-RSQLite
   - r-gplots
